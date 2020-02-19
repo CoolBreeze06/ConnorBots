@@ -1,0 +1,12 @@
+{
+  "name": "connorbots",
+  "version": "0.1.0",
+  "description": "Projet de Bots",
+  "main": "main.js",
+  "repository": "https://github.com/CoolBreeze06/ConnorBots.git",
+  "author": "CoolBreeze06 <joseph.gaelle@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
